@@ -428,8 +428,8 @@ self.__precacheManifest = [
     "url": "/static/media/weathericons-regular-webfont.ecaf8b48.svg"
   },
   {
-    "revision": "d41d8cd98f00b204e9800998ecf8427e",
-    "url": "/static/media/notification.d41d8cd9.woff"
+    "revision": "58e613a1acbd57fdc779a15cce11110d",
+    "url": "/static/media/notification.58e613a1.svg"
   },
   {
     "revision": "d41d8cd98f00b204e9800998ecf8427e",
@@ -437,15 +437,19 @@ self.__precacheManifest = [
   },
   {
     "revision": "d41d8cd98f00b204e9800998ecf8427e",
-    "url": "/static/media/notification.d41d8cd9.ttf"
+    "url": "/static/media/notification.d41d8cd9.woff"
   },
   {
-    "revision": "58e613a1acbd57fdc779a15cce11110d",
-    "url": "/static/media/notification.58e613a1.svg"
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/static/media/notification.d41d8cd9.ttf"
   },
   {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
@@ -454,10 +458,6 @@ self.__precacheManifest = [
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
-  },
-  {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "daef12cfd3357839316591481f51949a",
@@ -484,7 +484,7 @@ self.__precacheManifest = [
     "url": "/static/css/92.36e8aa10.chunk.css"
   },
   {
-    "revision": "40e08689fc64f5c8df474b3c466ad462",
+    "revision": "00a535f0a0bda129a0efcec7e9b46ebf",
     "url": "/index.html"
   }
 ];

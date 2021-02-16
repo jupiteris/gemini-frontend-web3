@@ -196,8 +196,8 @@
   "static/media/sprite-flags-24x24.css": "/static/media/sprite-flags-24x24.7ed12ca4.png",
   "static/media/material-design-iconic-font.min.css": "/static/media/Material-Design-Iconic-Font.a4d31128.woff2",
   "static/media/weather-icons.min.css": "/static/media/weathericons-regular-webfont.ecaf8b48.svg",
-  "static/media/react-notifications.css": "/static/media/notification.58e613a1.svg",
-  "static/media/slick-theme.css": "/static/media/slick.d41f55a7.ttf",
+  "static/media/react-notifications.css": "/static/media/notification.d41d8cd9.ttf",
+  "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
   "static/media/bucket-with-bubbles_(2).png": "/static/media/bucket-with-bubbles_(2).daef12cf.png",
   "static/media/telephone_(1).png": "/static/media/telephone_(1).075e591c.png",
   "static/media/tools-cross-settings-symbol-for-interface_(1).png": "/static/media/tools-cross-settings-symbol-for-interface_(1).ce97ede8.png",
@@ -207,6 +207,6 @@
   "static/css/main.08f1212f.chunk.css.map": "/static/css/main.08f1212f.chunk.css.map",
   "static/css/92.36e8aa10.chunk.css.map": "/static/css/92.36e8aa10.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.f6a18a14a397ab225a78529232df71b0.js": "/precache-manifest.f6a18a14a397ab225a78529232df71b0.js",
+  "precache-manifest.bf46f01efee5d1120fa1c1c6d1f13fe3.js": "/precache-manifest.bf46f01efee5d1120fa1c1c6d1f13fe3.js",
   "service-worker.js": "/service-worker.js"
 }
